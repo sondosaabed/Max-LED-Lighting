@@ -1,5 +1,6 @@
 # Max LED Lighting
 This is a Java desktop application. Two circuit boards (S and L), where S contains n power sources, while L contains LEDs n are given. The source S sorted in ascending order <1, 2, 3, … , n>, while the LEDs on L are not <2, 9, 5, 14, 3...>. The app connects each LED in L to its pair in S (i.e., 1 with 1, 2 with 2) through unshielded wires, thus when a wire connects a LED (li) in L with its corresponding source in S (si), it may prevent other LEDs from being connected (no two wires may cross).
+
 Example as below, if you connected l1 with s1, then 3 LEDs maximum will be lightened.
 ![00](https://user-images.githubusercontent.com/65151701/156570554-54e7f1f9-93fd-4c83-82cb-e71031e22366.png)
 
