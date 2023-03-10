@@ -12,12 +12,9 @@ The input of the program is:
 n (number of LEDs, say 100).
 A permutation of numbers (<1 to n>) :the ordering of the LEDs on the board L. 
 
-# File format example
-![0](https://user-images.githubusercontent.com/65151701/156570751-0646ca2b-66fd-4a99-88fd-5de3b9771994.png)
-
-# Programms versions
-javafx.version=17.0.1,  
-Java.version=17.0.8
+File format example
+6 
+2 6 3 5 4 1 
 
 # Screenshots of Application
 Browse for input file:
